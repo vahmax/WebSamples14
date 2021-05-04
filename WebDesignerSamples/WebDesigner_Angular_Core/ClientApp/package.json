@@ -6,7 +6,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "npm run deploy-bundles && ng build",
-    "build:ssr": "ng run WebDesigner_Angular(Core):server:dev",
+    "build:ssr": "ng run WebDesigner_Angular_Core:server:dev",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
